@@ -1,4 +1,6 @@
-# ADM-ZIP for NodeJS
+# ADM-ZIP for NodeJS - Rise Vision Fork
+
+Forked for use within Electron, where require("fs") brings in an unwanted modified version of node's fs module.
 
 ADM-ZIP is a pure JavaScript implementation for zip data compression for [NodeJS](http://nodejs.org/). 
 
